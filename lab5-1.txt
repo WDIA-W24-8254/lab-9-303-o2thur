@@ -1,0 +1,75 @@
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
+systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+syslog:x:104:111::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+tss:x:106:113:TPM software stack,,,:/var/lib/tpm:/bin/false
+uuidd:x:107:116::/run/uuidd:/usr/sbin/nologin
+systemd-oom:x:108:117:systemd Userspace OOM Killer,,,:/run/systemd:/usr/sbin/nologin
+tcpdump:x:109:118::/nonexistent:/usr/sbin/nologin
+avahi-autoipd:x:110:119:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/usr/sbin/nologin
+usbmux:x:111:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
+dnsmasq:x:112:65534:dnsmasq,,,:/var/lib/misc:/usr/sbin/nologin
+kernoops:x:113:65534:Kernel Oops Tracking Daemon,,,:/:/usr/sbin/nologin
+avahi:x:114:121:Avahi mDNS daemon,,,:/run/avahi-daemon:/usr/sbin/nologin
+cups-pk-helper:x:115:122:user for cups-pk-helper service,,,:/home/cups-pk-helper:/usr/sbin/nologin
+rtkit:x:116:123:RealtimeKit,,,:/proc:/usr/sbin/nologin
+whoopsie:x:117:124::/nonexistent:/bin/false
+sssd:x:118:125:SSSD system user,,,:/var/lib/sss:/usr/sbin/nologin
+speech-dispatcher:x:119:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+fwupd-refresh:x:120:126:fwupd-refresh user,,,:/run/systemd:/usr/sbin/nologin
+nm-openvpn:x:121:127:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
+saned:x:122:129::/var/lib/saned:/usr/sbin/nologin
+colord:x:123:130:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
+geoclue:x:124:131::/var/lib/geoclue:/usr/sbin/nologin
+pulse:x:125:132:PulseAudio daemon,,,:/run/pulse:/usr/sbin/nologin
+gnome-initial-setup:x:126:65534::/run/gnome-initial-setup/:/bin/false
+hplip:x:127:7:HPLIP system user,,,:/run/hplip:/bin/false
+gdm:x:128:134:Gnome Display Manager:/var/lib/gdm3:/bin/false
+vboxuser:x:1000:1000:vboxuser,,,:/home/vboxuser:/bin/bash
+mysql:x:129:137:MySQL Server,,,:/nonexistent:/bin/false
+iawd1:x:1001:1004::/home/iawd1:/bin/sh
+iawd2:x:1002:1005::/home/iawd2:/bin/sh
+iawd3:x:1003:1006::/home/iawd3:/bin/sh
+mizonj:x:1004:1007::/home/mizonj:/bin/sh
+zero9128:x:1005:1009:zero9128:/home/zero9128:/bin/bash
+dopo9038:x:1006:1010:dopo9038:/home/dopo9038:/bin/bash
+qoro4176:x:1007:1011:qoro4176:/home/qoro4176:/bin/bash
+hono1470:x:1008:1012:hono1470:/home/hono1470:/bin/bash
+teta6427:x:1009:1013:teta6427:/home/teta6427:/bin/bash
+mequ1823:x:1010:1014:mequ1823:/home/mequ1823:/bin/bash
+raka7669:x:1011:1015:raka7669:/home/raka7669:/bin/bash
+xyra7342:x:1012:1016:xyra7342:/home/xyra7342:/bin/bash
+xaca4843:x:1013:1017:xaca4843:/home/xaca4843:/bin/bash
+tibo2910:x:1014:1018:tibo2910:/home/tibo2910:/bin/bash
+yijy8161:x:1015:1019:yijy8161:/home/yijy8161:/bin/bash
+fycu3989:x:1016:1020:fycu3989:/home/fycu3989:/bin/bash
+qaou6831:x:1017:1021:qaou6831:/home/qaou6831:/bin/bash
+foua5780:x:1018:1022:foua5780:/home/foua5780:/bin/bash
+buwi3768:x:1019:1023:buwi3768:/home/buwi3768:/bin/bash
+viao0405:x:1020:1024:viao0405:/home/viao0405:/bin/bash
+some2913:x:1021:1025:some2913:/home/some2913:/bin/bash
+vani1010:x:1022:1026:vani1010:/home/vani1010:/bin/bash
+doee1958:x:1023:1027:doee1958:/home/doee1958:/bin/bash
+arthur_duarte:x:1024:1028::/home/arthur_duarte:/bin/sh
+ftp:x:130:138:ftp daemon,,,:/srv/ftp:/usr/sbin/nologin
+sandra:x:1025:1029:sandra,,,:/home/sandra:/bin/bash

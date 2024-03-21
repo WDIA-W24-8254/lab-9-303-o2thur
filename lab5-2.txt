@@ -1,0 +1,25 @@
+total 96
+4 drwxr-xr-x 24 root          root          4096 Mar 11 18:05 .
+4 drwxr-xr-x 20 root          root          4096 Feb  8 08:24 ..
+4 drwxr-x---  2 arthur_duarte arthur_duarte 4096 Feb 12 17:55 arthur_duarte
+4 drwxr-x---  2 buwi3768      buwi3768      4096 Feb 12 15:12 buwi3768
+4 drwxr-x---  2 doee1958      doee1958      4096 Feb 12 15:12 doee1958
+4 drwxr-x---  2 dopo9038      dopo9038      4096 Feb 12 15:12 dopo9038
+4 drwxr-x---  2 foua5780      foua5780      4096 Feb 12 15:12 foua5780
+4 drwxr-x---  2 fycu3989      fycu3989      4096 Feb 12 15:12 fycu3989
+4 drwxr-x---  2 hono1470      hono1470      4096 Feb 12 15:12 hono1470
+4 drwxr-x---  2 mequ1823      mequ1823      4096 Feb 12 15:12 mequ1823
+4 drwxr-x---  2 qaou6831      qaou6831      4096 Feb 12 15:12 qaou6831
+4 drwxr-x---  2 qoro4176      qoro4176      4096 Feb 12 15:12 qoro4176
+4 drwxr-x---  2 raka7669      raka7669      4096 Feb 12 15:12 raka7669
+4 drwxr-x---  3 sandra        sandra        4096 Mar 11 18:08 sandra
+4 drwxr-x---  2 some2913      some2913      4096 Feb 12 15:12 some2913
+4 drwxr-x---  2 teta6427      teta6427      4096 Feb 12 15:12 teta6427
+4 drwxr-x---  2 tibo2910      tibo2910      4096 Feb 12 15:12 tibo2910
+4 drwxr-x---  2 vani1010      vani1010      4096 Feb 12 15:12 vani1010
+4 drwxr-x--- 23 vboxuser      vboxuser      4096 Mar 21 15:26 vboxuser
+4 drwxr-x---  2 viao0405      viao0405      4096 Feb 12 15:12 viao0405
+4 drwxr-x---  2 xaca4843      xaca4843      4096 Feb 12 15:12 xaca4843
+4 drwxr-x---  2 xyra7342      xyra7342      4096 Feb 12 15:12 xyra7342
+4 drwxr-x---  2 yijy8161      yijy8161      4096 Feb 12 15:12 yijy8161
+4 drwxr-x---  2 zero9128      zero9128      4096 Feb 12 15:12 zero9128
